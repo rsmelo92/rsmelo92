@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**rsmelo92/rsmelo92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<ruby>
+And <rp>(</rp><rt>Hello</rt><rp>)</rp>
+</ruby>
+<ruby>
+I am <rp>(</rp><rt>my </rt><rp>)</rp>
+</ruby>
+<ruby>
+a coder <rp>(</rp><rt>name is</rt><rp>)</rp>
+</ruby>
+<ruby>
+from <rp>(</rp><rt>Rafael</rt><rp>)</rp>
+</ruby>
+<ruby>
+Brazil <rp>(</rp><rt>Melo</rt><rp>)</rp>
+</ruby>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

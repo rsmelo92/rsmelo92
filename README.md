@@ -4,7 +4,7 @@
 
 <em>#Focusing</em>
 
-```javascript
+```typescript
 const rsmelo = {
   code: [
     Javascript,
